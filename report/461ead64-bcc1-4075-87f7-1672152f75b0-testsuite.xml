@@ -1,0 +1,63 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1581680444251" stop="1581680444491">
+  <name>scripts.test02_employee</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1581680444251" status="passed" stop="1581680444308">
+      <name>TestEmployee.test01_post_0_tonew1_1004</name>
+      <attachments>
+        <attachment source="1ee0d1d4-1b36-401e-bc69-9745ce314337-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="f310c554-758f-4faa-a567-11775cfa4621-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15430-MainThread"/>
+        <label name="host" value="MonkeyPro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581680444309" status="passed" stop="1581680444370">
+      <name>TestEmployee.test02_put</name>
+      <attachments>
+        <attachment source="b75bd69e-f678-4b6d-9a6e-241cf2a2ec28-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15430-MainThread"/>
+        <label name="host" value="MonkeyPro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581680444372" status="passed" stop="1581680444428">
+      <name>TestEmployee.test03_get</name>
+      <attachments>
+        <attachment source="7fea7c1c-ad6d-484a-b3ba-1ad63dcf4f8f-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15430-MainThread"/>
+        <label name="host" value="MonkeyPro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581680444429" status="passed" stop="1581680444491">
+      <name>TestEmployee.test04_delete</name>
+      <attachments>
+        <attachment source="ad53bc46-dfca-40de-b6a7-560cf6534a88-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15430-MainThread"/>
+        <label name="host" value="MonkeyPro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

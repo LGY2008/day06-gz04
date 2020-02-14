@@ -1,0 +1,3 @@
+api_employee.py             31 INFO     新增员工数据：{'username': 'tonew1-1004', 'mobile': '17010331120', 'workNumber': '10233402'} 新增员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer 695ccd9f-80ec-47a3-82c3-23b64d3d36f7'}
+test02_employee.py          28 INFO     新增员工结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1228282924700618752'}}
+test02_employee.py          32 INFO     新增员工后提取的员工id为：：1228282924700618752
